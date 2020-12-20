@@ -1,0 +1,14 @@
+Create a GUI application that displays 4 text fields, and 4 label fields and two buttons. 
+The layout is up to you, but must be logical. A number is entered into each text field. 
+When the “Calculate” button is pressed the application will calculate the following and 
+display the results in each of the four label fields.
+
+Sum of the four values
+
+Product of the four values
+
+The smallest value
+
+The largest of the values
+
+The exit button will exit the application
